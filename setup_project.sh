@@ -62,5 +62,4 @@ else
     echo "├── results/"
     echo "│   └── cutsite_summary.txt"
     echo "└── README.md"
-
-chmod +x setup_project.sh
+fi
